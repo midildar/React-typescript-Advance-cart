@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "earphone",
+        "price": 10.99,
+        "imgUrl": "images/earphones.webp"
+    },
+    {
+        "id": 2,
+        "name": "computer",
+        "price": 1000.99,
+        "imgUrl": "images/computer.jpg"
+    },
+    {
+        "id": 3,
+        "name": "headphone",
+        "price": 9870.99,
+        "imgUrl": "images/headphones.webp"
+    },
+    {
+        "id": 4,
+        "name": "speakers",
+        "price": 1.99,
+        "imgUrl": "images/speaker.webp"
+    },
+    {
+        "id": 5,
+        "name": "watch",
+        "price": 1.99,
+        "imgUrl": "images/watch.webp"
+    }     
+]
